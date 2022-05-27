@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @frameNah
-- 👀 I’m interested in Games and Software development
+- 👋 Hi, I’m @13Frame34
+- 👀 I’m interested in Games and Desktop apps development
 - 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on nothing!
-- 📫 How to reach me framenah@icloud.com
+- 📫 How to reach me 13Frame34@gmail.com
 
 <!---
 frameNah/frameNah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
